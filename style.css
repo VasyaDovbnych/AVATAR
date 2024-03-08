@@ -10,18 +10,14 @@
 .logotype{
     width: 186px;
     height: 72px;
-    margin: 39px;
-    padding-left: 204px;
 }
 .navigation{
     display: flex;
 }
 .navigation-list{
     display: flex;
-    padding: 63px;
 }
 .navigation-item{
-    margin-right: 38px; 
     font-family:  var(--second-family);
     font-weight: 300;
     font-size: 20px; 
@@ -33,14 +29,4 @@
    font-size: 16px;
    text-align: center;
    color: #fff;
-   margin: 65px;
-   padding-left: 204px;
 }
-.language{
-    margin: 2px;
-}
-.switcher{
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
