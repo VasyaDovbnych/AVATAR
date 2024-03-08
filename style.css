@@ -1,3 +1,8 @@
+:root {
+    --second-family: "Inter", sans-serif;
+    --font3: "HeadlandOne", sans-serif;
+    --font7: "Hammersmith One", sans-serif;
+  }
 .header{
     height: 150px;
     background: linear-gradient( #2B4A6187,  #2B4A6187), url(img/Rectangle\ 104.png) no-repeat center/cover;
@@ -5,4 +10,36 @@
 .logotype{
     width: 186px;
     height: 72px;
+    margin: 39px;
+    padding-left: 204px;
+}
+.navigation{
+    display: flex;
+}
+.navigation-list{
+    display: flex;
+    padding: 63px;
+}
+.navigation-item{
+    margin-right: 38px; 
+    font-family:  var(--second-family);
+    font-weight: 300;
+    font-size: 20px; 
+}
+.navigation-language{
+    display: flex;
+    font-family: var(--font7);
+    font-weight: 400;
+   font-size: 16px;
+   text-align: center;
+   color: #fff;
+   margin: 65px;
+   padding-left: 204px;
+}
+.language{
+    margin: 2px;
+}
+.switcher{
+    padding-left: 10px;
+    padding-right: 10px;
 }
