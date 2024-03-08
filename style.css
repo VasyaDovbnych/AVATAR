@@ -30,3 +30,32 @@
    text-align: center;
    color: #fff;
 }
+.main{
+    height: 740px;
+    background: url(img/Group\ 48\ 1.png) no-repeat center/cover;
+}
+.img{
+    width: 50px;
+    height: 30px;
+}
+.quote{
+    height: 350px;
+}
+.video{
+    background: url(img/Rectangle\ 10.png) no-repeat center/cover;
+    height: 741px;
+}
+.navi{
+    height: 704px;
+    background: url(img/Rectangle\ 20.png) no-repeat center/cover;
+}
+.blok{
+    width: 320px;
+    height: 240px;
+    background-color: #ffffff70;
+}
+.navi-item{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 143px;
+}
