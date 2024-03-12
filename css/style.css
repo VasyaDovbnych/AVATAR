@@ -1,0 +1,105 @@
+:root {
+    --second-family: "Inter", sans-serif;
+    --font3: "HeadlandOne", sans-serif;
+    --font7: "Hammersmith One", sans-serif;
+}
+
+.header {
+    padding-top: 39px;
+    padding-bottom: 39px;
+    background: linear-gradient(#2B4A6187, #2B4A6187), url(./../img/background.png) no-repeat center/cover;
+}
+
+.logotype {
+    width: 186px;
+    height: 72px;
+}
+
+.navigation {
+    display: flex;
+}
+
+.navigation-list {
+    display: flex;
+}
+
+.navigation-item {
+    font-family: var(--second-family);
+    font-weight: 300;
+    font-size: 20px;
+}
+.button{
+    width: 141px;
+    height: 41px;
+    background-color: #0B0E66;
+    border: 2px solid #26C7EA;
+    border-bottom-right-radius: 35px;
+    border-top-left-radius: 35px;
+    color: #26C7EA;
+    font-family: var(--font3);
+}
+.button-main{
+    width: 260px;
+    height: 80px;
+    background-color: #0B0E66;
+    border: 2px solid #26C7EA;
+    border-bottom-right-radius: 35px;
+    border-top-left-radius: 35px;
+    color: #26C7EA;
+    font-family: var(--font3);  
+}
+
+.navigation-language {
+    display: flex;
+    font-family: var(--font7);
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+    justify-content: right;
+    padding-right: 48px;
+}
+
+.main {
+    height: 740px;
+    background: url(./../img/main.png) no-repeat center/cover;
+}
+
+.img {
+    width: 50px;
+    height: 30px;
+}
+
+.quote {
+    height: 350px;
+}
+
+.video {
+    background: url(./../img/video.png) no-repeat center/cover;
+    height: 741px;
+}
+
+.navi {
+    height: 704px;
+    background: url(./../img/sky.png) no-repeat center/cover;
+}
+
+.blok {
+    width: 320px;
+    padding-bottom: 240px;
+    background-color: #ffffff70;
+}
+
+.container-blok {
+    display: flex;
+}
+
+.footer-item {
+    display: flex;
+}
+
+footer {
+    padding-top: 35px;
+    padding-bottom: 25px;
+    background: linear-gradient(#2B4A6187, #2B4A6187), url(./../img/background.png) no-repeat center/cover;
+}
