@@ -5,14 +5,14 @@
 }
 
 .header {
-    padding-top: 39px;
-    padding-bottom: 39px;
+
     background: linear-gradient(#2B4A6187, #2B4A6187), url(./../img/background.png) no-repeat center/cover;
+    border-bottom: 3px solid #fff;
 }
 
 .logotype {
     width: 186px;
-    height: 72px;
+    padding-left: 204px;
 }
 
 .navigation {
@@ -27,6 +27,7 @@
     font-family: var(--second-family);
     font-weight: 300;
     font-size: 20px;
+    margin: 0 38px;
 }
 .button{
     width: 141px;
@@ -61,6 +62,7 @@
     justify-content: right;
     padding-right: 48px;
 }
+
 
 .main {
     height: 740px;
