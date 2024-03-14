@@ -12,7 +12,7 @@
 
 .logotype {
     width: 186px;
-    padding-left: 204px;
+    /* padding-left: 204px; */
 }
 
 .navigation {
@@ -94,7 +94,7 @@ footer {
     font-weight: 400;
     font-size: 20px;
     color: #fff;
-    padding-left: 204px;
+    /* padding-left: 204px; */
     padding-top: 180px;
 }
 
@@ -103,14 +103,14 @@ footer {
     font-weight: 400;
     font-size: 20px;
     color: #fff;
-    padding-left: 204px;
+    /* padding-left: 204px; */
 }
 
 
 .main-img {
     width: 152px;
     height: 40px;
-    padding-left: 257px;
+    /* padding-left: 257px; */
 }
 
 .button-main {
@@ -126,12 +126,12 @@ footer {
 }
 
 .botom-main-item {
-    padding-left: 204px;
+    /* padding-left: 204px; */
     padding-top: 42px;
 }
 
 .inst {
-    padding-left: 1186px;
+    /* padding-left: 1186px; */
     display: block;
     margin: 55px;
 }
@@ -163,7 +163,7 @@ footer {
 
 .quote-img {
     width: 400px;
-    padding-left: 550px;
+    padding-left: 320px;
     padding-top: 8px;
 }
 
@@ -181,7 +181,7 @@ footer {
 
 .button-video-item {
     padding-top: 330px;
-    padding-left: 590px;
+    /* padding-left: 590px; */
 }
 
 .item {
@@ -196,8 +196,6 @@ footer {
 .navi-list {
     display: flex;
     flex-wrap: wrap;
-    padding-left: 204px;
-    padding-right: 203px;
     padding-bottom: 57px;
 }
 
@@ -235,6 +233,6 @@ footer {
 .arrow {
     width: 152px;
     height: 40px;
-    padding-left: 84px;
+    /* padding-left: 84px; */
     padding-top: 40px;
 }
