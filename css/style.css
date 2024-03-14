@@ -19,6 +19,7 @@
 
 .navigation-list {
     display: flex;
+    text-align: center;
 }
 
 .navigation-item {
@@ -281,10 +282,6 @@ footer {
     width: 183px;
 }
 
-.footer-team {
-    padding-left: 264px;
-}
-
 .text {
     font-family: var(--second-family);
     font-weight: 400;
@@ -293,4 +290,8 @@ footer {
     color: #fff;
     padding-top: 37px;
     padding-bottom: 25px;
+}
+.footer-wrap{
+    display: flex;
+    justify-content: space-between;
 }
