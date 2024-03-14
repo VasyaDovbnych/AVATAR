@@ -11,6 +11,8 @@
 
 .logotype {
     width: 186px;
+    justify-content: center;
+
 }
 
 .navigation {
@@ -50,10 +52,10 @@
     font-family: var(--font7);
     font-weight: 400;
     font-size: 16px;
-    text-align: center;
     color: #fff;
     justify-content: right;
     padding-right: 48px;
+    
 }
 
 
@@ -67,9 +69,6 @@
     height: 30px;
 }
 
-.quote {
-    height: 350px;
-}
 
 .video {
     background: url(./../img/video.png) no-repeat center/cover;
@@ -111,7 +110,7 @@ footer {
 .main-img {
     width: 152px;
     height: 40px;
-    /* padding-left: 257px; */
+    padding-left: 53px;
 }
 
 .button-main {
@@ -132,7 +131,7 @@ footer {
 }
 
 .inst {
-    /* padding-left: 1186px; */
+    padding-top: 300px;
     display: block;
     margin: 55px;
 }
@@ -166,6 +165,7 @@ footer {
     width: 400px;
     padding-left: 320px;
     padding-top: 8px;
+    padding-bottom: 10px;
 }
 
 .button-video {
@@ -244,6 +244,7 @@ footer {
     justify-content: center;
     padding-right: 25px;
     border-left: 3px solid #fff;
+    padding-left: 80px;
 }
 
 .footer-text-two {
@@ -252,6 +253,7 @@ footer {
     display: flex;
     justify-content: center;
     border-left: 3px solid #fff;
+    padding-left: 80px;
 }
 
 .footer-img {
@@ -280,6 +282,7 @@ footer {
 
 .footer-logotype {
     width: 183px;
+    padding-top: 55px;
 }
 
 .text {
@@ -299,4 +302,10 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+.footer-team{
+    padding-top: 35px;
+}
+.team{
+    padding-bottom: 42px;
 }
