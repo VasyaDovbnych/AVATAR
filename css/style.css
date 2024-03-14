@@ -5,14 +5,12 @@
 }
 
 .header {
-
     background: linear-gradient(#2B4A6187, #2B4A6187), url(./../img/background.png) no-repeat center/cover;
     border-bottom: 3px solid #fff;
 }
 
 .logotype {
     width: 186px;
-    /* padding-left: 204px; */
 }
 
 .navigation {
@@ -181,7 +179,7 @@ footer {
 
 .button-video-item {
     padding-top: 330px;
-    /* padding-left: 590px; */
+    padding-left: 387px;
 }
 
 .item {
