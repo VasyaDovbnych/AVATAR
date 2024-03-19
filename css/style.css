@@ -7,12 +7,18 @@
 .header {
     background: linear-gradient(#2B4A6187, #2B4A6187), url(./../img/background.jpg) no-repeat center/cover;
     border-bottom: 3px solid #fff;
+    padding-top: 39px;
+    padding-bottom: 39px;
 }
 
 .logotype {
     width: 186px;
     justify-content: center;
 
+}
+.switcher{
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .navigation {
@@ -21,7 +27,7 @@
 
 .navigation-list {
     display: flex;
-    text-align: center;
+    align-items: center;
 }
 
 .navigation-item {
@@ -43,8 +49,8 @@
     font-size: 20px;
 }
 .header-button{
-    padding-bottom: 54px;
-    padding-left: 891px;
+    display: flex;
+    align-items: center;
 }
 
 .navigation-language {
@@ -53,15 +59,20 @@
     font-weight: 400;
     font-size: 16px;
     color: #fff;
-    justify-content: right;
-    padding-right: 48px;
-    
+    margin-left: 49px;
+}
+.header-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
 }
 
 
 .main {
-    height: 740px;
     background: url(./../img/main.jpg) no-repeat center/cover;
+    padding-top: 180px;
+    padding-bottom: 180px;
 }
 
 .img {
@@ -94,8 +105,6 @@ footer {
     font-weight: 400;
     font-size: 20px;
     color: #fff;
-    /* padding-left: 204px; */
-    padding-top: 180px;
 }
 
 .text-main-two {
@@ -128,12 +137,6 @@ footer {
 .botom-main-item {
     /* padding-left: 204px; */
     padding-top: 42px;
-}
-
-.inst {
-    padding-top: 300px;
-    display: block;
-    margin: 55px;
 }
 
 .img {
@@ -192,12 +195,15 @@ footer {
     text-align: center;
     color: #141414;
     padding-top: 58px;
+    padding-bottom: 45px;
 }
 
 .navi-list {
     display: flex;
     flex-wrap: wrap;
     padding-bottom: 57px;
+    gap: 36px;
+    margin: 0 auto;
 }
 
 .navi {
@@ -208,7 +214,6 @@ footer {
     width: 320px;
     height: 240px;
     background-color: #ffffff70;
-    margin: 24px 25px;
 }
 
 .text-blok {
@@ -218,7 +223,6 @@ footer {
     line-height: 100%;
     text-align: center;
     color: #000;
-    padding-top: 40px;
 }
 
 .text-blok-text {
@@ -234,8 +238,8 @@ footer {
 .arrow {
     width: 152px;
     height: 40px;
-    /* padding-left: 84px; */
-    padding-top: 40px;
+    margin: 40px auto;
+
 }
 
 .footer-text {
