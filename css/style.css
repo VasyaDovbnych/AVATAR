@@ -16,7 +16,8 @@
     justify-content: center;
 
 }
-.switcher{
+
+.switcher {
     margin-left: 10px;
     margin-right: 10px;
 }
@@ -48,7 +49,8 @@
     font-family: var(--font3);
     font-size: 20px;
 }
-.header-button{
+
+.header-button {
     display: flex;
     align-items: center;
 }
@@ -61,7 +63,8 @@
     color: #fff;
     margin-left: 49px;
 }
-.header-item{
+
+.header-item {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -298,18 +301,22 @@ footer {
     padding-top: 37px;
     padding-bottom: 25px;
 }
-.footer-wrap{
+
+.footer-wrap {
     display: flex;
     justify-content: space-between;
 }
-.main-wrap{
+
+.main-wrap {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.footer-team{
+
+.footer-team {
     padding-top: 35px;
 }
-.team{
+
+.team {
     padding-bottom: 42px;
 }
