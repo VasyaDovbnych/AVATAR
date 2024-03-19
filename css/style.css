@@ -5,7 +5,7 @@
 }
 
 .header {
-    background: linear-gradient(#2B4A6187, #2B4A6187), url(./../img/background.png) no-repeat center/cover;
+    background: linear-gradient(#2B4A6187, #2B4A6187), url(./../img/background.jpg) no-repeat center/cover;
     border-bottom: 3px solid #fff;
 }
 
@@ -61,7 +61,7 @@
 
 .main {
     height: 740px;
-    background: url(./../img/main.png) no-repeat center/cover;
+    background: url(./../img/main.jpg) no-repeat center/cover;
 }
 
 .img {
@@ -71,7 +71,7 @@
 
 
 .video {
-    background: url(./../img/video.png) no-repeat center/cover;
+    background: url(./../img/video.jpg) no-repeat center/cover;
     height: 741px;
 }
 
@@ -86,7 +86,7 @@
 }
 
 footer {
-    background: linear-gradient(#2b4a61be, #2b4a61be), url(./../img/background.png) no-repeat center/cover;
+    background: linear-gradient(#2b4a61be, #2b4a61be), url(./../img/background.jpg) no-repeat center/cover;
 }
 
 .text-main {
@@ -201,7 +201,7 @@ footer {
 }
 
 .navi {
-    background: url(./../img/sky.png) no-repeat center/cover;
+    background: url(./../img/sky.jpg) no-repeat center/cover;
 }
 
 .blok {
