@@ -318,3 +318,11 @@ footer {
 .team {
     padding-bottom: 42px;
 }
+
+a:hover {
+    color: #94CFFF;
+}
+
+button {
+    cursor: pointer;
+}
