@@ -326,3 +326,7 @@ a:hover {
 button {
     cursor: pointer;
 }
+.email:hover {
+    color: #94CFFF;
+    cursor: pointer;
+}
